@@ -1,0 +1,10 @@
+#-------------#
+# Configuration File for LitePunishments #
+# Version 0.1 #
+#-------------#
+
+# Below are a list of punishment types. Put 'true' if you use that punishment type and 'false' if you do not use that punishment type
+
+warn: true
+kick: true
+ban: true

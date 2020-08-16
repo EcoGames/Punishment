@@ -1,0 +1,12 @@
+name: LitePunishments
+version: 0.1
+main: com.reprevise.punish.MainPunish
+author: Reprevise
+description: This plugin makes handling out and storing punishments easier on the server. You have the option of an SQL database or a simple configuration file.
+commands:
+  punish:
+    description: Opens the punishment GUI.
+    permissions: litepunish.punish
+permissions:
+  litepunish.punish:
+    description: Allows the ability to open up the Punishment GUI.
